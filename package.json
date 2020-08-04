@@ -1,0 +1,28 @@
+{
+  "name": "nama-film",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "build.js": "^0.3.0",
+    "html": "^1.0.0",
+    "index.js": "0.0.3",
+    "jquery": "^3.5.1",
+    "keyword": "^0.1.1",
+    "moment": "^2.27.0"
+  },
+  "devDependencies": {
+    "css-loader": "^4.2.0",
+    "html-webpack-plugin": "^4.3.0",
+    "http-server": "^0.12.3",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "keywords": [],
+  "description": ""
+}
