@@ -13,7 +13,7 @@
     "index.js": "0.0.3",
     "jquery": "^3.5.1",
     "keyword": "^0.1.1",
-    "moment": "^2.27.0"
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "css-loader": "^4.2.0",
